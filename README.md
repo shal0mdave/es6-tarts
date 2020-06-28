@@ -1,0 +1,2 @@
+# es6-tarts
+ Sometimes, we ignore new JavaScript constructs and features because we fear running into complications and creating bugs from code that is already working fine. Keeps us from all the goodies that come with language updates and the simplicity they often bring to our code structure. Join me in my journey as we get rid of that fear and uncover the tasty goodness behind some of the new features in ES6 and how they make our lives way easier as JavaScript developers.
