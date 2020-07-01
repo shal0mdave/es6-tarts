@@ -13,7 +13,7 @@
 	 - Implicit type conversion
 
 
- -  Template Literals
+ -  Classes
 	 - 
 	 ![Template literals](https://github.com/shal0mdave/es6-tarts/blob/master/assets/img/02-class-declaration.png?raw=true)
 	Explore ES6 classes, create methods, instantiate them and see why they're so important. Write reusable and extendable code!
