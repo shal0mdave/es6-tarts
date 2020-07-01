@@ -5,10 +5,21 @@
  -  Template Literals
 	 - 
 	 ![Template literals](https://github.com/shal0mdave/es6-tarts/blob/template-literals/assets/img/01-string-interpolation.png?raw=true)
-	Find out why template literals are so amazing and how they allow you write clean, usable code. View code snippets demonstrating concepts like 
+	Find out why template literals are so amazing and how they allow you write clean, readable code. View code snippets demonstrating concepts like 
 	
 	 - String interpolation
 	 - Expression interpolation
 	 - Function call
 	 - Implicit type conversion
+
+
+ -  Template Literals
+	 - 
+	 ![Template literals](https://github.com/shal0mdave/es6-tarts/blob/master/assets/img/02-class-declaration.png?raw=true)
+	Explore ES6 classes, create methods, instantiate them and see why they're so important. Write reusable and extendable code!
+	
+	 - Class declaration
+	 - Methods
+	 - Instantiation
+	 - Using methods through instances
 
